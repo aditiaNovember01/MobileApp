@@ -1,0 +1,24 @@
+# Laravel (backend)
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/storage/
+backend/bootstrap/cache/
+
+# Laravel IDE Helper
+backend/_ide_helper.php
+backend/_ide_helper_models.php
+
+# Flutter (frontend)
+frontend/build/
+frontend/.dart_tool/
+frontend/.packages
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.idea/
+frontend/.vscode/
+frontend/pubspec.lock
+
+# System files
+.DS_Store
+Thumbs.db
